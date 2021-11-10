@@ -1,0 +1,11 @@
+body {
+    background: #90ffe3;
+    color: white;
+    padding: 0;
+    margin: 0;
+}
+
+.js-image {
+    width: 300px;
+    height: 300px;
+}
